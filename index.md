@@ -12,3 +12,7 @@
 <p>I’m learning how to use Markdown and write HTML code on GitHub.</p>
 <img src="https://your-image-link-here.jpg" alt="My image">
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
