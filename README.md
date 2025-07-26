@@ -53,6 +53,24 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 ---
 
+## My Experience
+
+I just completed the [Communicate Using Markdown](https://github.com/skills/communicate-using-markdown) course. 
+
+## 📝 What the course included
+ - Using Markdown syntax for headers, lists, images, code blocks, and tables.
+ - Creating and editing a Markdown file (`index.md`) in a GitHub repository.
+ - Making and committing changes with clear commit messages.
+ - Opening and merging a pull request.
+ - Publishing the Markdown page using **GitHub Pages**.
+
+ > *Please note: GitHub does not issue any official badge or certificate upon completion of this course.* 
+
+## 🌐 View my published GitHub Page
+ 🔗 [neshi-dev.github.io/skills-communicate-using-markdown](https://neshi-dev.github.io/skills-communicate-using-markdown/) 
+
+❤️ I'm thrilled to keep learning, creating, and sharing through GitHub. My journey is just getting started!
+
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
